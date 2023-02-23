@@ -1,0 +1,7 @@
+Le club informatique SOLICLUB a organisé aujourd'hui (le 23 février 2023)  un ensemble d’ateliers informatiques en faveur de 31 apprenants de SOLICODE Tanger.
+
+Quatre ateliers ont ainsi été présentés : 
+Initialisation sur LINUX supervisée par le membre Tebbaa Adnane.
+Initialisation sur le réseau LAN supervisée par le membre Stitou nada.
+Initialisation en HARDWARE supervisée par le membre Hicham El mliki.
+Atelier ROBOTIQUE supervisée par le membre Merradou Abderrahmane.
